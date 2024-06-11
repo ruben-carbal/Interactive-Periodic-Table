@@ -1,5 +1,4 @@
-const elementsInfo = {
-  elements: [
+const elementsInfo = [
     {
       name: 'Hydrogen',
       appearance: 'colorless gas',
@@ -6264,7 +6263,6 @@ const elementsInfo = {
       },
       block: 's'
     }
-  ]
-};
+  ];
 
 module.exports = elementsInfo;
